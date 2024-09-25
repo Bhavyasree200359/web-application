@@ -41,6 +41,9 @@ if(isset($_POST['submit'])){
     cursor: pointer;
     margin-right: 10px;
 }
+#explore{
+  min-width: 100% !important;
+}
 .career-div2{
   min-width: 100%;
 }
